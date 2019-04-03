@@ -17,4 +17,5 @@ Imports a pre-generated coordinate file created using the previous .py file. Sho
 
 Important information about data formatting:
 spreadsheet headers should at least include (pay attention to upper and lower casing)
+
 first_name, last_name, Address_Line_1, City, Zip
